@@ -5,3 +5,7 @@ h4 {
 .container {
     margin-bottom: 2rem;
 }
+
+.screenshot {
+    width: 80%;
+}
